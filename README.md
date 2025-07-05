@@ -1,4 +1,4 @@
-<h2 align="center">Buen Día 👋 <br>⭐Soy Salvador Hernandez y aquí encontraras todos mis proyectos de la mas alta calidad⭐</h2>
+<h2 align="center">Buen Día 👋 <br>⭐Soy Salvador Hernandez y aquí encontraras mis proyectos⭐</h2>
 
 ###
 
